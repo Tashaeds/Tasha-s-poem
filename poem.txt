@@ -4,8 +4,7 @@ Purple
 pink 
 orange
 blue
-unicorn
-ponies
+
 red
 yellow
 green
