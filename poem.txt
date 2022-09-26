@@ -5,7 +5,8 @@ pink
 orange
 blue
 unicorn
+ponies
 red
 yellow
 green
-these are the colours of the rainbow and the unicorn
+these are the colours of the rainbow and the unicorn and ponies
