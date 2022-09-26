@@ -2,6 +2,7 @@ Purple
 pink 
 orange
 blue
+indigo
 red
 yellow
 green
